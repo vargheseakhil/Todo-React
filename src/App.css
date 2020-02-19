@@ -1,0 +1,30 @@
+body {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+.App {
+  min-width: 400px;
+}
+label {
+  display: block;
+  font-weight: bold;
+  margin-top: 10px;
+}
+input {
+  width: 100%;
+  height: 20px;
+}
+button {
+  margin-top: 10px;
+}
+
+#directory-table {
+  margin-top: 15px;
+}
+
+#directory-table td,
+#directory-table th {
+  padding-right: 20px;
+  text-align: left;
+}
